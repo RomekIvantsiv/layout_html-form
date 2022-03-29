@@ -8,10 +8,14 @@
   display: inline;
 }
 
-input {
+.input {
   margin: 0 10px;
 }
 
-fieldset {
+.fieldset {
   margin-bottom: 20px;
+}
+
+.animals {
+  display: inline;
 }
